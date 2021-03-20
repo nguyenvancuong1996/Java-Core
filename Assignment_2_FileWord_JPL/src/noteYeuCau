@@ -1,0 +1,12 @@
+Yeu cau 1 : cac class trong cac package
+Yeu cau 2 :
+	Cau 1: CandidateserviceImpl,DAO
+	Cau 2: static trong Candidate, ++ trong insert in DAO
+	Cau 3: Validator
+	Cau 4: printAllCandidateFullName() in candidateserviceimpl
+	Cau 5: ham showMe() override at 3 class
+Yeu cau 3 :
+	Cau 1: readNonduplicateEmailCandidate() in service
+	Cau 2: sortCandidate() in service
+	
+	
